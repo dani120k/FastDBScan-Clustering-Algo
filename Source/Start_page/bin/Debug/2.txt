@@ -1,0 +1,26 @@
+12 12 0 0 True
+13 13 0 0 True
+14 14 0 0 True
+1 1 0 1 True
+2 2 0 -1 False
+0 0 0 1 True
+-1 -1 0 1 True
+-1 1 0 1 True
+1 -1 0 1 True
+15 15 0 -1 False
+12 13 0 0 True
+13 12 0 0 True
+11 21 0 -1 False
+50 50 0 2 True
+51 50 0 2 True
+49 50 0 2 True
+50 52 0 2 True
+52 50 0 2 True
+33 33 0 3 True
+32 32 0 3 True
+34 34 0 3 True
+34 33 0 3 True
+33 34 0 3 True
+se
+34 33 0 -1 False
+33 34 0 -1 False

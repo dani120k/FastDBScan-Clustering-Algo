@@ -1,0 +1,222 @@
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\Graph.exe.config
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\Graph.exe
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\Graph.pdb
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\ClassLibrary1.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\ZedGraph.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\ClassLibrary1.pdb
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\ZedGraph.xml
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\obj\Release\Graph.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\obj\Release\Graph.Form1.resources
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\obj\Release\Graph.Properties.Resources.resources
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\obj\Release\Graph.csproj.GenerateResource.Cache
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\obj\Release\Graph.exe
+C:\Users\Данил\Desktop\Alpha version\Start_page\Graph\obj\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\Graph.exe.config
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\ZedGraph.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\ZedGraph.xml
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\de\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\es\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\it\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\obj\Release\Graph.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\obj\Release\Graph.Form1.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\obj\Release\Graph.Properties.Resources.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\obj\Release\Graph.csproj.GenerateResource.Cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\obj\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\obj\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\Lib4rtree.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\Graph\bin\Release\Lib4rtree.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\Graph.exe.config
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\Lib4rtree.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\ZedGraph.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\Lib4rtree.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\ZedGraph.xml
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\de\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\es\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\it\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\obj\Release\Graph.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\obj\Release\Graph.Graphic.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\obj\Release\Graph.Properties.Resources.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\obj\Release\Graph.csproj.GenerateResource.Cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\obj\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\Graph\obj\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\Graph.exe.config
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\Lib4rtree.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\ZedGraph.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\Lib4rtree.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\ZedGraph.xml
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\de\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\es\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\it\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\obj\Release\Graph.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\obj\Release\Graph.Graphic.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\obj\Release\Graph.Properties.Resources.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\obj\Release\Graph.csproj.GenerateResource.Cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\obj\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now) — копия (2)\Graph\obj\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\Graph.exe.config
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\Lib4rtree.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\ZedGraph.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\Lib4rtree.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\ZedGraph.xml
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\de\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\es\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\it\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\obj\Release\Graph.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\obj\Release\Graph.Graphic.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\obj\Release\Graph.Properties.Resources.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\obj\Release\Graph.csproj.GenerateResource.Cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\obj\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest)\Graph\obj\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\Graph.exe.config
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\Lib4rtree.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\ZedGraph.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\Lib4rtree.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\ZedGraph.xml
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\de\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\es\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\it\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\obj\Release\Graph.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\obj\Release\Graph.Graphic.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\obj\Release\Graph.Properties.Resources.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\obj\Release\Graph.csproj.GenerateResource.Cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\obj\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия\Graph\obj\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\Graph.exe.config
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\Graph.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\Lib4rtree.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\ZedGraph.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\Lib4rtree.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\ZedGraph.xml
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\de\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\es\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\it\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.Graphic.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.Properties.Resources.resources
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.csproj.GenerateResource.Cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.exe
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.pdb
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\Graph.exe.config
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\Graph.exe
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\Graph.pdb
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\ClassLibrary1.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\Lib4rtree.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\ZedGraph.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\ClassLibrary1.pdb
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\Lib4rtree.pdb
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\ZedGraph.xml
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.Graphic.resources
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.Properties.Resources.resources
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.csproj.GenerateResource.Cache
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.exe
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\Graph\obj\Release\Graph.pdb

@@ -1,0 +1,25 @@
+C:\Users\Данил\Desktop\Alpha version\Start_page\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Данил\Desktop\Alpha version\Start_page\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Данил\Desktop\Alpha version\Start_page\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\Данил\Desktop\Alpha version\Start_page\ClassLibrary1\obj\Release\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\ClassLibrary1\obj\Release\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\ClassLibrary1\obj\Release\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page(now)\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\ClassLibrary1\obj\Release\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\яффффффффффффффффффф\Desktop\Start_page (latest) — копия — копия\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\ClassLibrary1\obj\Release\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Данил\Desktop\Курсач\Start_page (latest) — копия — копия\ClassLibrary1\obj\Release\ClassLibrary1.pdb
